@@ -1,0 +1,6 @@
+transaction_id,new field,amount,transaction_date,status
+1001,1,500,01-03-2024,success
+1002,1,900,01-03-2024,success
+1003,1,750,02-03-2024,success
+1006,1,400,03-03-2024,success
+1005,1,300,03-03-2024,success
