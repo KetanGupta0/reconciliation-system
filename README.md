@@ -60,7 +60,7 @@ reconciliation-system/
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/KetanGupta0/reconciliation-system
 cd reconciliation-system
 ```
 
